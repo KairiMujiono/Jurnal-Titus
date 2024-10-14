@@ -21,8 +21,8 @@
 
 (Senin 14/Oktober/2024)
 * Melakukan calibration Pada X-RAY.
-* Men-Setting printer di komputer saya, sekligus print label untuk barang pesawat
-* Men-Setting Sound System 
+* Mengatur printer di komputer saya, sekligus print label untuk barang pesawat
+* Mengatur Sound System Pada Ruang makan dan ibadah.
 
 </body>
 </html>
