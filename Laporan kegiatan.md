@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jurnal Titus</title>
+    <h1>Jurnal Titus</h1>
 </head>
 <body>
     <h1>Laporan Kegiatan</h1>
