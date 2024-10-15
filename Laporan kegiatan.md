@@ -20,9 +20,19 @@
 * Membersihkan Ruangan pada saat jam pulang.
 
 (Senin 14/Oktober/2024)
-* Melakukan calibration Pada X-RAY.
+* Melakukan Calibration Pada X-RAY.
 * Mengatur printer di komputer saya, sekligus print label untuk barang pesawat
 * Mengatur Sound System Pada Ruang makan dan ibadah.
 
+(Selasa 15/Oktober/2024)
+* Mempelajari GLPI Yajasi Net Kategori IT.
+* Membuat ticket UPS yang rusak karena Lampu merah Menyala terus, dan suara beep terus menerus.
+* Mengganti Toner Cartridge Pada Printer.
+* Mengikuti Renungan di Ruangan Rapat.
+* Membuat Label Barang 10x15 dan 10x10.
+* Membuat Laporan Pengeluaran Dan modal Menggunakan GLPI.
+
+(Rabu 16/Oktober/2024)
+* 
 </body>
 </html>
