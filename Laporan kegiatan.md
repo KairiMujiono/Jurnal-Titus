@@ -33,6 +33,7 @@
 * Membuat Laporan Pengeluaran Dan modal Menggunakan GLPI.
 
 (Rabu 16/Oktober/2024)
+* saya menyelesaikan pembuatan dan pengeditan dokumen form surat untuk Yayasan Jasa Aviasi Indonesia (YAJASI) menggunakan Adobe Acrobat Pro.
 * 
 </body>
 </html>
