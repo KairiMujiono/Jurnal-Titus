@@ -39,5 +39,8 @@
 * Menyelesaikan pembuatan dan pengeditan dokumen form surat untuk YAJASI menggunakan Adobe Acrobat Pro. 
 * Membuat Label untuk barang-barang yang tidak memungkinkan ditempel dengan label lem, atau Label ikat.
 * Melakukan pekerjaan pemotongan dan pengguntingan Label ikat untuk Barang YAJASI.
+
+(Jumat 18/Oktober/2024)
+* 
 </body>
 </html>
