@@ -33,7 +33,11 @@
 * Membuat Laporan Pengeluaran Dan modal Menggunakan GLPI.
 
 (Rabu 16/Oktober/2024)
-* saya menyelesaikan pembuatan dan pengeditan dokumen form surat untuk Yayasan Jasa Aviasi Indonesia (YAJASI) menggunakan Adobe Acrobat Pro.
-* 
+* Mengikuti Kegiatan Ibadah Setengah Hari Yajasi.
+
+(Kamis 17/Oktober?2024)
+* Menyelesaikan pembuatan dan pengeditan dokumen form surat untuk YAJASI menggunakan Adobe Acrobat Pro. 
+* Membuat Label untuk barang-barang yang tidak memungkinkan ditempel dengan label lem, atau Label ikat.
+* Melakukan pekerjaan pemotongan dan pengguntingan Label ikat untuk Barang YAJASI.
 </body>
 </html>
