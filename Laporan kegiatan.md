@@ -41,6 +41,27 @@
 * Melakukan pekerjaan pemotongan dan pengguntingan Label ikat untuk Barang YAJASI.
 
 (Jumat 18/Oktober/2024)
-* 
+* Menghaluskan Besi Kaki X-RAY yang berkarat menggunakan gerinda untuk membersihkan permukaan dari karat.
+* Membuat Label barang yang tidak bisa di lem.
+* Mengecat Besi menggunakan cat dasar.
+
+(Senin 21/Oktober/2024)
+* Mencetak Label Barang Yajasi.
+* Membuat Slot Time 8 Table menggunakan Adobe A. Pro.
+
+(Selasa 22/Oktober/2024)
+* Mencetak Label Barang Yajasi.
+* Mengikuti Renungan Di Ruang Admin.
+* Memindahkan data data dari hardisk ke ssdi, karena ada kerusakan pada hardisk Laptop.
+
+(Rabu 23/Oktober/2024)
+* IZIN SAKIT KARENA TERKENA FLU + KURANG ENAK BADAN
+
+(Kamis 24/Oktober/2024)
+* Melakukan Calibration X-RAY.
+* Memperbaiki Keyboard Laptop yang tidak bisa ditekan.
+
+(Jumat 25/Oktober/2024)
+*
 </body>
 </html>
