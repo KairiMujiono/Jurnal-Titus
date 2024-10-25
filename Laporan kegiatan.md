@@ -62,6 +62,11 @@
 * Memperbaiki Keyboard Laptop yang tidak bisa ditekan.
 
 (Jumat 25/Oktober/2024)
+* Membersihkan X-RAY.
+* Mengikat Tali Label Barang.
+* Membersihkan Ruangan.
+
+(Senin 26/Oktober/2024)
 *
 </body>
 </html>
