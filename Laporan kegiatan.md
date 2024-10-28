@@ -67,6 +67,6 @@
 * Membersihkan Ruangan.
 
 (Senin 26/Oktober/2024)
-*
+* Membuat Label Proper Shipping For Fuels.
 </body>
 </html>
